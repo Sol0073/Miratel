@@ -48,6 +48,7 @@ float:left;
 .topics{
     width:80%;
     margin:0 auto;
+    margin-bottom:20px;
 }
 
 .manu-title{
@@ -90,6 +91,12 @@ float:left;
 
 .clear{
     clear:left;
+}
+
+.youtube{
+    width:80%;
+    margin:0 auto;
+    margin-bottom:20px;
 }
 
 .kosiki{
